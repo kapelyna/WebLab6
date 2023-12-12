@@ -1,0 +1,16 @@
+html{
+    background-color: rgb(178, 178, 248);
+}
+header{
+    background-color: rgb(50, 114, 204);
+    text-align: center;
+    border-radius: 10px;
+    color:beige;
+    font-size: 28px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.base{
+    text-align: center;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
